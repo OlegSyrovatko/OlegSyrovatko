@@ -24,7 +24,8 @@ Connect with me:
 
 - First place in the Diamond League on Duolingo.
 
-My stack:
+## ⭐ My stack:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
@@ -48,7 +49,10 @@ My stack:
 ![Render](https://img.shields.io/badge/render-%23646CFF.svg?&style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)
 
-I'm interested in:
+## 🧠 I'm interested in:
+
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
+
+## 📄 [Resume](https://github.com/OlegSyrovatko/cv/blob/main/Junior%20Front-End%20Developer.pdf)
