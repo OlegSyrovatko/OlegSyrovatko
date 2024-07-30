@@ -20,9 +20,12 @@ Connect with me:
 - [Building Company Project](https://afc.cn.ua) - A project for a building company with multiple pages and an admin panel.
 - [Mimiho](https://olegsyrovatko.github.io/our-dream/) - A small project about restaurant. All the pages mobile adapted, have excelent performance, accessibility.
 
+🎓 I completed a one-year Full Stack Developer course from GoIT in 2023 and continuously improve my skills.
+
 ## 🏆 Achievements
 
-- First place in the Diamond League on Duolingo.
+- 🎓 I completed a one-year Full Stack Developer course from GoIT in 2023 and continuously improve my skills.
+- ⚡ First place in the Diamond League on Duolingo.
 
 ## ⭐ My stack:
 
@@ -55,4 +58,9 @@ Connect with me:
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
 
-## 📄 [Resume](https://github.com/OlegSyrovatko/cv/blob/main/Junior%20Front-End%20Developer.pdf)
+## 📈 GitHub Stats
+
+![Oleg Syrovatko's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegSyrovatko&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSyrovatko&layout=compact&theme=radical)
+
+## 📄 [Resume](https://github.com/OlegSyrovatko/cv/blob/main/Junior%20Full%20Stack%20Developer.pdf)
