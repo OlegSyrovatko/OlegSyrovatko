@@ -20,8 +20,6 @@ Connect with me:
 - [Building Company Project](https://afc.cn.ua) - A project for a building company with multiple pages and an admin panel.
 - [Mimiho](https://olegsyrovatko.github.io/our-dream/) - A small project about restaurant. All the pages mobile adapted, have excelent performance, accessibility.
 
-🎓 I completed a one-year Full Stack Developer course from GoIT in 2023 and continuously improve my skills.
-
 ## 🏆 Achievements
 
 - 🎓 I completed a one-year Full Stack Developer course from GoIT in 2023 and continuously improve my skills.
