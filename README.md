@@ -60,7 +60,6 @@ Connect with me:
 
 ## 📈 GitHub Stats
 
-![Oleg Syrovatko's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegSyrovatko&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegSyrovatko&layout=compact&theme=radical)
 
 ## 📄 [Resume](https://github.com/OlegSyrovatko/cv/blob/main/Junior%20Full%20Stack%20Developer.pdf)
