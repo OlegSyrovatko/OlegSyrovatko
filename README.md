@@ -13,6 +13,17 @@
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/oleh-syrovatko/) [Telegram](https://t.me/OlehSyrovatko)
 
+## 🚀 Projects
+
+- [Social Network](https://1ua.com.ua) - A social network project with over 1 million photos and 115k users, organized by Laravel.
+- [Movie Site](https://tsmovies.netlify.app) - A movie site built with TypeScript and React.
+- [Building Company Project](https://afc.cn.ua) - A project for a building company with multiple pages and an admin panel.
+- [Mimiho](https://olegsyrovatko.github.io/our-dream/) - A small project about restaurant. All the pages mobile adapted, have excelent performance, accessibility.
+
+## 🏆 Achievements
+
+- First place in the Diamond League on Duolingo.
+
 My stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
